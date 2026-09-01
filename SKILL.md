@@ -1,7 +1,6 @@
 ---
 name: wizard
 description: Generate an interactive script for manual setup, credentials, dashboard steps, migrations, or cutovers that only a human can perform.
-disable-model-invocation: true
 ---
 
 # Wizard
